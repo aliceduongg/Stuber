@@ -1,7 +1,21 @@
 {
   "dependencies": {
     "bcrypt": "^5.1.1",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "express-session": "^1.18.0"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "name": "stuber",
+  "version": "1.0.0",
+  "main": "Test1.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
