@@ -20,4 +20,5 @@ Content-Type: application/json
   "password": "password"
 }
 
-// API calls also tested using Postman
+
+// API calls tested using Postman 
